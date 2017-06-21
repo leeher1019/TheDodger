@@ -1,0 +1,201 @@
+D:\CheFossetta\Taipei_Tech\三上課程資料\畢業專題資料\Dodger\Dodger\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\CheFossetta\Taipei_Tech\三上課程資料\畢業專題資料\Dodger\Dodger\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\CheFossetta\Taipei_Tech\三上課程資料\畢業專題資料\Dodger\Dodger\obj\x86\Debug\Dodger.csproj.GenerateResource.Cache
+D:\CheFossetta\Taipei_Tech\三上課程資料\畢業專題資料\Dodger\Dodger\bin\Debug\Dodger.exe
+D:\CheFossetta\Taipei_Tech\三上課程資料\畢業專題資料\Dodger\Dodger\bin\Debug\Dodger.pdb
+D:\CheFossetta\Taipei_Tech\三上課程資料\畢業專題資料\Dodger\Dodger\obj\x86\Debug\Dodger.exe
+D:\CheFossetta\Taipei_Tech\三上課程資料\畢業專題資料\Dodger\Dodger\obj\x86\Debug\Dodger.pdb
+D:\CheFossetta\Taipei_Tech\三上課程資料\畢業專題資料\Dodger\Dodger\obj\x86\Debug\Dodger.csprojResolveAssemblyReference.cache
+D:\CheFossetta\Taipei_Tech\三上課程資料\畢業專題資料\備份\Dodger\Dodger\obj\x86\Debug\Dodger.exe
+D:\CheFossetta\Taipei_Tech\三上課程資料\畢業專題資料\備份\Dodger\Dodger\obj\x86\Debug\Dodger.pdb
+D:\CheFossetta\Taipei_Tech\三上課程資料\畢業專題資料\備份\Dodger\Dodger\obj\x86\Debug\Dodger.csprojResolveAssemblyReference.cache
+D:\CheFossetta\Taipei_Tech\三上課程資料\畢業專題資料\備份\Dodger\Dodger\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\CheFossetta\Taipei_Tech\三上課程資料\畢業專題資料\備份\Dodger\Dodger\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\CheFossetta\Taipei_Tech\三上課程資料\畢業專題資料\備份\Dodger\Dodger\obj\x86\Debug\Dodger.csproj.GenerateResource.Cache
+D:\CheFossetta\Taipei_Tech\三上課程資料\畢業專題資料\備份\Dodger\Dodger\bin\Debug\Dodger.exe
+D:\CheFossetta\Taipei_Tech\三上課程資料\畢業專題資料\備份\Dodger\Dodger\bin\Debug\Dodger.pdb
+D:\CheFossetta\Taipei_Tech\三上課程資料\畢業專題資料\備份\Dodger-final\Dodger\obj\x86\Debug\Dodger.exe
+D:\CheFossetta\Taipei_Tech\三上課程資料\畢業專題資料\備份\Dodger-final\Dodger\obj\x86\Debug\Dodger.pdb
+D:\CheFossetta\Taipei_Tech\三上課程資料\畢業專題資料\備份\Dodger-final\Dodger\bin\Debug\Dodger.exe
+D:\CheFossetta\Taipei_Tech\三上課程資料\畢業專題資料\備份\Dodger-final\Dodger\bin\Debug\Dodger.pdb
+D:\CheFossetta\Taipei_Tech\三上課程資料\畢業專題資料\備份\Dodger-final\Dodger\obj\x86\Debug\Dodger.csprojResolveAssemblyReference.cache
+D:\CheFossetta\Taipei_Tech\三上課程資料\畢業專題資料\備份\Dodger-final\Dodger\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\CheFossetta\Taipei_Tech\三上課程資料\畢業專題資料\備份\Dodger-final\Dodger\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\CheFossetta\Taipei_Tech\三上課程資料\畢業專題資料\備份\Dodger-final\Dodger\obj\x86\Debug\Dodger.csproj.GenerateResource.Cache
+D:\CheFossetta\Taipei_Tech\三上課程資料\畢業專題資料\CheFossetta\Dodger-final\Dodger\obj\x86\Debug\Dodger.exe
+D:\CheFossetta\Taipei_Tech\三上課程資料\畢業專題資料\CheFossetta\Dodger-final\Dodger\obj\x86\Debug\Dodger.pdb
+D:\CheFossetta\Taipei_Tech\三上課程資料\畢業專題資料\CheFossetta\Dodger-final\Dodger\obj\x86\Debug\Dodger.csprojResolveAssemblyReference.cache
+D:\CheFossetta\Taipei_Tech\三上課程資料\畢業專題資料\CheFossetta\Dodger-final\Dodger\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\CheFossetta\Taipei_Tech\三上課程資料\畢業專題資料\CheFossetta\Dodger-final\Dodger\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\CheFossetta\Taipei_Tech\三上課程資料\畢業專題資料\CheFossetta\Dodger-final\Dodger\obj\x86\Debug\Dodger.csproj.GenerateResource.Cache
+D:\CheFossetta\Taipei_Tech\三上課程資料\畢業專題資料\CheFossetta\Dodger-final\Dodger\bin\Debug\Dodger.exe
+D:\CheFossetta\Taipei_Tech\三上課程資料\畢業專題資料\CheFossetta\Dodger-final\Dodger\bin\Debug\Dodger.pdb
+D:\CheFossetta\Taipei_Tech\三上課程資料\畢業專題資料\CheFossetta\Dodger-final-0126\Dodger\obj\x86\Debug\Dodger.exe
+D:\CheFossetta\Taipei_Tech\三上課程資料\畢業專題資料\CheFossetta\Dodger-final-0126\Dodger\obj\x86\Debug\Dodger.pdb
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger-final-0126\Dodger\obj\x86\Debug\Dodger.exe
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger-final-0126\Dodger\obj\x86\Debug\Dodger.pdb
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger-final-0127\Dodger\obj\x86\Debug\Dodger.exe
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger-final-0127\Dodger\obj\x86\Debug\Dodger.pdb
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger-final-0127\Dodger\bin\Debug\Dodger.exe
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger-final-0127\Dodger\bin\Debug\Dodger.pdb
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger-final-0127\Dodger\obj\x86\Debug\Dodger.csprojResolveAssemblyReference.cache
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger-final-0127\Dodger\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger-final-0127\Dodger\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger-final-0127\Dodger\obj\x86\Debug\Dodger.csproj.GenerateResource.Cache
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger-final-0202\Dodger\obj\x86\Debug\Dodger.exe
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger-final-0202\Dodger\obj\x86\Debug\Dodger.pdb
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger-final-0202\Dodger\obj\x86\Debug\Dodger.csprojResolveAssemblyReference.cache
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger-final-0202\Dodger\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger-final-0202\Dodger\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger-final-0202\Dodger\obj\x86\Debug\Dodger.csproj.GenerateResource.Cache
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger-final-0202\Dodger\bin\Debug\Dodger.exe
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger-final-0202\Dodger\bin\Debug\Dodger.pdb
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger-final-0203( 外掛：路徑)\Dodger\obj\x86\Debug\Dodger.exe
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger-final-0203( 外掛：路徑)\Dodger\obj\x86\Debug\Dodger.pdb
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger-final-0203( 外掛：路徑)\Dodger\bin\Debug\Dodger.exe
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger-final-0203( 外掛：路徑)\Dodger\bin\Debug\Dodger.pdb
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger-final-0203( 外掛：路徑)\Dodger\obj\x86\Debug\Dodger.csprojResolveAssemblyReference.cache
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger-final-0203( 外掛：路徑)\Dodger\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger-final-0203( 外掛：路徑)\Dodger\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger-final-0203( 外掛：路徑)\Dodger\obj\x86\Debug\Dodger.csproj.GenerateResource.Cache
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger-final-0225( 外掛：路徑)\Dodger\obj\x86\Debug\Dodger.exe
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger-final-0225( 外掛：路徑)\Dodger\obj\x86\Debug\Dodger.pdb
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger-final-0225( 外掛：路徑)\Dodger\obj\x86\Debug\Dodger.csprojResolveAssemblyReference.cache
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger-final-0225( 外掛：路徑)\Dodger\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger-final-0225( 外掛：路徑)\Dodger\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger-final-0225( 外掛：路徑)\Dodger\obj\x86\Debug\Dodger.csproj.GenerateResource.Cache
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger-final-0225( 外掛：路徑)\Dodger\bin\Debug\Dodger.exe
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger-final-0225( 外掛：路徑)\Dodger\bin\Debug\Dodger.pdb
+D:\download device\Dodger-final-0226( 外掛：路徑)\Dodger\obj\x86\Debug\Dodger.exe
+D:\download device\Dodger-final-0226( 外掛：路徑)\Dodger\obj\x86\Debug\Dodger.pdb
+D:\download device\Dodger-final-0226( 外掛：路徑)\Dodger\bin\Debug\Dodger.exe
+D:\download device\Dodger-final-0226( 外掛：路徑)\Dodger\bin\Debug\Dodger.pdb
+D:\download device\Dodger-final-0226( 外掛：路徑)\Dodger\obj\x86\Debug\Dodger.csprojResolveAssemblyReference.cache
+D:\download device\Dodger-final-0226( 外掛：路徑)\Dodger\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\download device\Dodger-final-0226( 外掛：路徑)\Dodger\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\download device\Dodger-final-0226( 外掛：路徑)\Dodger\obj\x86\Debug\Dodger.csproj.GenerateResource.Cache
+C:\Users\Clive\Desktop\Dodger-final-0226( 外掛：路徑)\Dodger\obj\x86\Debug\Dodger.exe
+C:\Users\Clive\Desktop\Dodger-final-0226( 外掛：路徑)\Dodger\obj\x86\Debug\Dodger.pdb
+C:\Users\Clive\Desktop\Dodger-final-0226( 外掛：路徑)\Dodger\bin\Debug\Dodger.exe
+C:\Users\Clive\Desktop\Dodger-final-0226( 外掛：路徑)\Dodger\bin\Debug\Dodger.pdb
+C:\Users\Clive\Desktop\Dodger-final-0226( 外掛：路徑)\Dodger\obj\x86\Debug\Dodger.csprojResolveAssemblyReference.cache
+C:\Users\Clive\Desktop\Dodger-final-0226( 外掛：路徑)\Dodger\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Clive\Desktop\Dodger-final-0226( 外掛：路徑)\Dodger\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Clive\Desktop\Dodger-final-0226( 外掛：路徑)\Dodger\obj\x86\Debug\Dodger.csproj.GenerateResource.Cache
+C:\Users\Y\Downloads\Dodger-final-0226( 外掛：路徑)\Dodger\obj\x86\Debug\Dodger.exe
+C:\Users\Y\Downloads\Dodger-final-0226( 外掛：路徑)\Dodger\obj\x86\Debug\Dodger.pdb
+C:\Users\Y\Downloads\Dodger-final-0226( 外掛：路徑)\Dodger\bin\Debug\Dodger.exe
+C:\Users\Y\Downloads\Dodger-final-0226( 外掛：路徑)\Dodger\bin\Debug\Dodger.pdb
+C:\Users\Y\Downloads\Dodger-final-0226( 外掛：路徑)\Dodger\obj\x86\Debug\Dodger.csprojResolveAssemblyReference.cache
+C:\Users\Y\Downloads\Dodger-final-0226( 外掛：路徑)\Dodger\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Y\Downloads\Dodger-final-0226( 外掛：路徑)\Dodger\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Y\Downloads\Dodger-final-0226( 外掛：路徑)\Dodger\obj\x86\Debug\Dodger.csproj.GenerateResource.Cache
+C:\Users\Clive\Desktop\Dodger26\Dodger\obj\x86\Debug\Dodger.exe
+C:\Users\Clive\Desktop\Dodger26\Dodger\obj\x86\Debug\Dodger.pdb
+C:\Users\Clive\Desktop\Dodger26\Dodger\bin\Debug\Dodger.exe
+C:\Users\Clive\Desktop\Dodger26\Dodger\bin\Debug\Dodger.pdb
+C:\Users\Clive\Desktop\Dodger26\Dodger\obj\x86\Debug\Dodger.csprojResolveAssemblyReference.cache
+C:\Users\Clive\Desktop\Dodger26\Dodger\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Clive\Desktop\Dodger26\Dodger\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Clive\Desktop\Dodger26\Dodger\obj\x86\Debug\Dodger.csproj.GenerateResource.Cache
+D:\CheFossetta\Taipei_Tech\畢業專題資料\Ying\Dodger26\Dodger\obj\x86\Debug\Dodger.exe
+D:\CheFossetta\Taipei_Tech\畢業專題資料\Ying\Dodger26\Dodger\obj\x86\Debug\Dodger.pdb
+D:\CheFossetta\Taipei_Tech\畢業專題資料\Ying\Dodger26\Dodger\bin\Debug\Dodger.exe
+D:\CheFossetta\Taipei_Tech\畢業專題資料\Ying\Dodger26\Dodger\bin\Debug\Dodger.pdb
+D:\CheFossetta\Taipei_Tech\畢業專題資料\Ying\Dodger26\Dodger\obj\x86\Debug\Dodger.csprojResolveAssemblyReference.cache
+D:\CheFossetta\Taipei_Tech\畢業專題資料\Ying\Dodger26\Dodger\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\CheFossetta\Taipei_Tech\畢業專題資料\Ying\Dodger26\Dodger\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\CheFossetta\Taipei_Tech\畢業專題資料\Ying\Dodger26\Dodger\obj\x86\Debug\Dodger.csproj.GenerateResource.Cache
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger26\Dodger\obj\x86\Debug\Dodger.exe
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger26\Dodger\obj\x86\Debug\Dodger.pdb
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger26\Dodger\bin\Debug\Dodger.exe
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger26\Dodger\bin\Debug\Dodger.pdb
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger26\Dodger\obj\x86\Debug\Dodger.csprojResolveAssemblyReference.cache
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger26\Dodger\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger26\Dodger\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger26\Dodger\obj\x86\Debug\Dodger.csproj.GenerateResource.Cache
+C:\Users\Clive\Desktop\Dodger0301\Dodger\obj\x86\Debug\Dodger.exe
+C:\Users\Clive\Desktop\Dodger0301\Dodger\obj\x86\Debug\Dodger.pdb
+C:\Users\Clive\Desktop\Dodger0301\Dodger\bin\Debug\Dodger.exe
+C:\Users\Clive\Desktop\Dodger0301\Dodger\bin\Debug\Dodger.pdb
+C:\Users\Clive\Desktop\Dodger0301\Dodger\obj\x86\Debug\Dodger.csprojResolveAssemblyReference.cache
+C:\Users\Clive\Desktop\Dodger0301\Dodger\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Clive\Desktop\Dodger0301\Dodger\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Clive\Desktop\Dodger0301\Dodger\obj\x86\Debug\Dodger.csproj.GenerateResource.Cache
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger0302\Dodger\obj\x86\Debug\Dodger.exe
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger0302\Dodger\obj\x86\Debug\Dodger.pdb
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger0302\Dodger\bin\Debug\Dodger.exe
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger0302\Dodger\bin\Debug\Dodger.pdb
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger0302\Dodger\obj\x86\Debug\Dodger.csprojResolveAssemblyReference.cache
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger0302\Dodger\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger0302\Dodger\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger0302\Dodger\obj\x86\Debug\Dodger.csproj.GenerateResource.Cache
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger0302-morning\Dodger\obj\x86\Debug\Dodger.exe
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger0302-morning\Dodger\obj\x86\Debug\Dodger.pdb
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger0302-morning\Dodger\obj\x86\Debug\Dodger.csprojResolveAssemblyReference.cache
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger0302-morning\Dodger\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger0302-morning\Dodger\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger0302-morning\Dodger\obj\x86\Debug\Dodger.csproj.GenerateResource.Cache
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger0302-morning\Dodger\bin\Debug\Dodger.exe
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\Dodger0302-morning\Dodger\bin\Debug\Dodger.pdb
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0302-spotWatch\Dodger\obj\x86\Debug\Dodger.exe
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0302-spotWatch\Dodger\obj\x86\Debug\Dodger.pdb
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0302-spotWatch\Dodger\bin\Debug\Dodger.exe
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0302-spotWatch\Dodger\bin\Debug\Dodger.pdb
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0302-spotWatch\Dodger\obj\x86\Debug\Dodger.csprojResolveAssemblyReference.cache
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0302-spotWatch\Dodger\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0302-spotWatch\Dodger\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0302-spotWatch\Dodger\obj\x86\Debug\Dodger.csproj.GenerateResource.Cache
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0305-spotWatch-按鍵完成\Dodger\obj\x86\Debug\Dodger.exe
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0305-spotWatch-按鍵完成\Dodger\obj\x86\Debug\Dodger.pdb
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0305-spotWatch-按鍵完成\Dodger\bin\Debug\Dodger.exe
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0305-spotWatch-按鍵完成\Dodger\bin\Debug\Dodger.pdb
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0305-spotWatch-按鍵完成\Dodger\obj\x86\Debug\Dodger.csprojResolveAssemblyReference.cache
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0305-spotWatch-按鍵完成\Dodger\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0305-spotWatch-按鍵完成\Dodger\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0305-spotWatch-按鍵完成\Dodger\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0305-spotWatch-按鍵完成\Dodger\obj\x86\Debug\Dodger.csproj.GenerateResource.Cache
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0305-spotWatch-按鍵完成\Dodger\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0305-spotWatch-按鍵完成\Dodger\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0308-spotWatch-按鍵完成-模式切換\Dodger\obj\x86\Debug\Dodger.exe
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0308-spotWatch-按鍵完成-模式切換\Dodger\obj\x86\Debug\Dodger.pdb
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0308-spotWatch-按鍵完成-模式切換\Dodger\bin\Debug\Dodger.exe
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0308-spotWatch-按鍵完成-模式切換\Dodger\bin\Debug\Dodger.pdb
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0308-spotWatch-按鍵完成-模式切換\Dodger\obj\x86\Debug\Dodger.csprojResolveAssemblyReference.cache
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0308-spotWatch-按鍵完成-模式切換\Dodger\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0308-spotWatch-按鍵完成-模式切換\Dodger\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0308-spotWatch-按鍵完成-模式切換\Dodger\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0308-spotWatch-按鍵完成-模式切換\Dodger\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0308-spotWatch-按鍵完成-模式切換\Dodger\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0308-spotWatch-按鍵完成-模式切換\Dodger\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0308-spotWatch-按鍵完成-模式切換\Dodger\obj\x86\Debug\Dodger.csproj.GenerateResource.Cache
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0308-spotWatch-按鍵完成-模式切換\Dodger\bin\Debug\System.Data.SQLite.dll
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0308-spotWatch-按鍵完成-模式切換\Dodger\bin\Debug\System.Data.SQLite.pdb
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0317-spotWatch-按鍵完成-模式切換-資料庫排名\Dodger\obj\x86\Debug\Dodger.exe
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0317-spotWatch-按鍵完成-模式切換-資料庫排名\Dodger\obj\x86\Debug\Dodger.pdb
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0317-spotWatch-按鍵完成-模式切換-資料庫排名\Dodger\bin\Debug\Dodger.exe
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0317-spotWatch-按鍵完成-模式切換-資料庫排名\Dodger\bin\Debug\Dodger.pdb
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0317-spotWatch-按鍵完成-模式切換-資料庫排名\Dodger\bin\Debug\System.Data.SQLite.dll
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0317-spotWatch-按鍵完成-模式切換-資料庫排名\Dodger\bin\Debug\System.Data.SQLite.pdb
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0317-spotWatch-按鍵完成-模式切換-資料庫排名\Dodger\obj\x86\Debug\Dodger.csprojResolveAssemblyReference.cache
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0317-spotWatch-按鍵完成-模式切換-資料庫排名\Dodger\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0317-spotWatch-按鍵完成-模式切換-資料庫排名\Dodger\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0317-spotWatch-按鍵完成-模式切換-資料庫排名\Dodger\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0317-spotWatch-按鍵完成-模式切換-資料庫排名\Dodger\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0317-spotWatch-按鍵完成-模式切換-資料庫排名\Dodger\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0317-spotWatch-按鍵完成-模式切換-資料庫排名\Dodger\obj\x86\Debug\Dodger.csproj.GenerateResource.Cache
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0317-spotWatch-按鍵完成-模式切換-資料庫排名\Dodger\obj\x86\Debug\Dodger.Properties.Resources.resources
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0317(中午)-spotWatch-按鍵完成-模式切換-資料庫排名-右上角關閉\Dodger\obj\x86\Debug\Dodger.exe
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0317(中午)-spotWatch-按鍵完成-模式切換-資料庫排名-右上角關閉\Dodger\obj\x86\Debug\Dodger.pdb
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0317(中午)-spotWatch-按鍵完成-模式切換-資料庫排名-右上角關閉\Dodger\bin\Debug\Dodger.exe
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0317(中午)-spotWatch-按鍵完成-模式切換-資料庫排名-右上角關閉\Dodger\bin\Debug\Dodger.pdb
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0317(中午)-spotWatch-按鍵完成-模式切換-資料庫排名-右上角關閉\Dodger\bin\Debug\System.Data.SQLite.dll
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0317(中午)-spotWatch-按鍵完成-模式切換-資料庫排名-右上角關閉\Dodger\bin\Debug\System.Data.SQLite.pdb
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0317(中午)-spotWatch-按鍵完成-模式切換-資料庫排名-右上角關閉\Dodger\obj\x86\Debug\Dodger.csprojResolveAssemblyReference.cache
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0317(中午)-spotWatch-按鍵完成-模式切換-資料庫排名-右上角關閉\Dodger\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0317(中午)-spotWatch-按鍵完成-模式切換-資料庫排名-右上角關閉\Dodger\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0317(中午)-spotWatch-按鍵完成-模式切換-資料庫排名-右上角關閉\Dodger\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0317(中午)-spotWatch-按鍵完成-模式切換-資料庫排名-右上角關閉\Dodger\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0317(中午)-spotWatch-按鍵完成-模式切換-資料庫排名-右上角關閉\Dodger\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0317(中午)-spotWatch-按鍵完成-模式切換-資料庫排名-右上角關閉\Dodger\obj\x86\Debug\Dodger.Properties.Resources.resources
+D:\CheFossetta\Taipei_Tech\畢業專題資料\CheFossetta\All_Of_Dodger\Dodger0317(中午)-spotWatch-按鍵完成-模式切換-資料庫排名-右上角關閉\Dodger\obj\x86\Debug\Dodger.csproj.GenerateResource.Cache

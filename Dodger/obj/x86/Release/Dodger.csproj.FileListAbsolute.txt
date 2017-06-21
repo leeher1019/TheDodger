@@ -1,0 +1,14 @@
+D:\CheFossetta\Taipei_Tech\三上課程資料\畢業專題資料\備份\Dodger\Dodger\bin\Release\Dodger.exe
+D:\CheFossetta\Taipei_Tech\三上課程資料\畢業專題資料\備份\Dodger\Dodger\bin\Release\Dodger.pdb
+D:\CheFossetta\Taipei_Tech\三上課程資料\畢業專題資料\備份\Dodger\Dodger\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+D:\CheFossetta\Taipei_Tech\三上課程資料\畢業專題資料\備份\Dodger\Dodger\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\CheFossetta\Taipei_Tech\三上課程資料\畢業專題資料\備份\Dodger\Dodger\obj\x86\Release\Dodger.csproj.GenerateResource.Cache
+D:\CheFossetta\Taipei_Tech\三上課程資料\畢業專題資料\備份\Dodger\Dodger\obj\x86\Release\Dodger.exe
+D:\CheFossetta\Taipei_Tech\三上課程資料\畢業專題資料\備份\Dodger\Dodger\obj\x86\Release\Dodger.pdb
+D:\download device\Dodger-final-0226( 外掛：路徑)\Dodger\bin\Release\Dodger.exe
+D:\download device\Dodger-final-0226( 外掛：路徑)\Dodger\bin\Release\Dodger.pdb
+D:\download device\Dodger-final-0226( 外掛：路徑)\Dodger\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+D:\download device\Dodger-final-0226( 外掛：路徑)\Dodger\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\download device\Dodger-final-0226( 外掛：路徑)\Dodger\obj\x86\Release\Dodger.csproj.GenerateResource.Cache
+D:\download device\Dodger-final-0226( 外掛：路徑)\Dodger\obj\x86\Release\Dodger.exe
+D:\download device\Dodger-final-0226( 外掛：路徑)\Dodger\obj\x86\Release\Dodger.pdb
